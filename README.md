@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## 个人简历
+### 个人基本信息
+姓    名：郭伟       出生年月：1998-05-19        性    别：男                                   
+求职意向：Java开发工程师   毕业院校：内蒙科技大学包头师范学院      
+专    业：计算机科学与技术（服务外包）
+邮箱：15848639539@163.com
 
-You can use the [editor on GitHub](https://github.com/MrGuo522/MrGuo522.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 教育背景
+2015.09-2019.07      内蒙古科技大学包头师范学院         计算机科学与技术（服务外包）
+主修课程：C语言，数据结构，Linux，Oracle，Java程序设计基础，操作系统，JavaScript ,
+JQuery, HTML，XML，Android , JavaWeb开发技术 , JavaEE轻量级框架应用与开发等。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 专业技能
+熟悉 Spring + Struts2 + Hibernate 框架，并可以熟练运用框架的整体发；
+熟练运用 Spring + SpringMVC + MyBatis 框架整体开发；
+熟悉 MySQL、Oracle 数据库，熟练掌握 SQL语句；
+熟悉 JavaScript、JQuery、AJAX、CSS3、HTML5 等前端页面开发 ; 
+熟练运用 MyEclipse、Eclipse、ideal、MySQL、HBuilder等工具；
 
-### Markdown
+### 工作经验
+2016.09-2017.09              包头师范学院图书馆协会    纪律监察部部长
+工作描述：
+在职期间完成图书馆纪律监察任务，协助老师制定图书馆协会规章制度。
+带领部员监察各部门工作进度，以及处理部门的纪律问题。
+锻炼了自己的领导能力和团队协作能力。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2015.09-2016.09              包头师范学院国旗班        国旗班队员
+军事训练                                    一年的军事训练锻炼了我吃苦耐劳的品质，绝对服从上级下达的命令，严守纪律。
+2016.09-2017.09              包头师范学院国旗班        军训教官
+担任新生入学军训教官         锻炼自己的领导能力和交流能力，服务于大家更是服务于我自己。
+2016.12-2018.09              包头师范学院国旗班        国旗班班长 
+经过一年半的锻炼和学习，学校武装部任命我为2015届国旗班班长，后带队参加包头七所高校汇演，
+2017年担任新生入学军训总教官。这样的经历让我更加的稳重，遇事不慌不忙，沉着冷静，找到解决问题最有效的方法。
+### 项目经验
+项目名称：网上商城系统（个人）
+项目描述： 网上商城系统由前台展示页面与后台管理页面构成，通过登录判断登录人权限进入不同页面,前台供普通用户使用可浏览商品，查看商品详情与加入购物车，购物车内商品提交订单；后台分为卖家管理页面与管理员页面，卖家可管理自己店铺内的商品，可对用户提交订单进行管理；管理员可管理卖家与普通用户。本系统各模块按照在线网络商城进行管理，功能实现较为全面。
+使用技术：SSH 框架、AJAX、JQuery、JavaScript、MySQL 数据库、文件的上传与下载。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrGuo522/MrGuo522.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+项目名称：图书管理系统（团队）
+项目描述：图书管理系统后台。前台，通过管理员管理录入借书信息，普通用户也可登录查看书籍，查看书籍的具体位置
+                 管理员可以新增读者，查看读者信息，借阅排行查询，录入书籍信息等功能
+本人负责：本人主要负责管理员模块，新增读者，查看读者的信息，录入书籍，借阅排行查询以及项目整合。
